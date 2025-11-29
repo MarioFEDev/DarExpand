@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DarExpand/static/css/main.d662e0c4.css",
-    "main.js": "/DarExpand/static/js/main.bb37ed0f.js",
+    "main.css": "/DarExpand/static/css/main.5fcd7981.css",
+    "main.js": "/DarExpand/static/js/main.e3fce301.js",
     "static/media/19693.jpg": "/DarExpand/static/media/19693.9b9bb1cf4ee93d46c9f9.jpg",
     "static/media/retro.png": "/DarExpand/static/media/retro.5df215dc327be8dabd64.png",
     "static/media/Lucid_Origin_Create_a_vibrant_poster_for_the_Darexpand_motivat_2.jpg": "/DarExpand/static/media/Lucid_Origin_Create_a_vibrant_poster_for_the_Darexpand_motivat_2.22b9ab34ad3a76103f0e.jpg",
@@ -26,11 +26,11 @@
     "static/media/Didot Bold.otf": "/DarExpand/static/media/Didot Bold.0682f37ecd844219cca9.otf",
     "static/media/Didot.otf": "/DarExpand/static/media/Didot.b5e69984001e9eb55ab7.otf",
     "index.html": "/DarExpand/index.html",
-    "main.d662e0c4.css.map": "/DarExpand/static/css/main.d662e0c4.css.map",
-    "main.bb37ed0f.js.map": "/DarExpand/static/js/main.bb37ed0f.js.map"
+    "main.5fcd7981.css.map": "/DarExpand/static/css/main.5fcd7981.css.map",
+    "main.e3fce301.js.map": "/DarExpand/static/js/main.e3fce301.js.map"
   },
   "entrypoints": [
-    "static/css/main.d662e0c4.css",
-    "static/js/main.bb37ed0f.js"
+    "static/css/main.5fcd7981.css",
+    "static/js/main.e3fce301.js"
   ]
 }
